@@ -45,11 +45,12 @@ print("<<< EJERCICIO 2.02 - BLoque_anidado>>>")
 for i in range(4):
   for j in range(i):
     print("i vale", i, "y j vale", j)
-    # EJERCICIO 2.2_BLOQUE_ANIDADO
+#EJERCICIO 2.1 BLOQUE_ANIDADO
 print("<<< EJERCICIO 2.1 - BLoque_anidado>>>")
 for x in [1, 3, 5]:
     for a in [0, 2]:
         print("x vale {0} y a vale {1}".format(x, a))
+#EJERCICIO 2.11
 print("<<< EJERCICIO 2.11 - BLoque_anidado>>>")
 for a in [2, 4, 8]:
     for b in range(a):
